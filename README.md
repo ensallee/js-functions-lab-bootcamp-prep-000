@@ -1,4 +1,4 @@
-lidays# JavaScript Functions
+# JavaScript Functions
 
 ## Objectives
 
